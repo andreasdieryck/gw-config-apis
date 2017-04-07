@@ -26,6 +26,7 @@
 { 
 "Path" : "themes/emojiNonsense",
 "DefaultImage" : "cvd/intentions/default/xsmall/shutterstock_437914531_19.jpg",
+"SearchText" : "emoji cute", 
 "Labels":
   [
   {"Language":"fr-FR","Label":"Emoji Non-sens"},
